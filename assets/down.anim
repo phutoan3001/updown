@@ -3,20 +3,24 @@
   "_name": "down",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 1,
+  "_duration": 3,
   "sample": 60,
   "speed": 1,
-  "wrapMode": 2,
+  "wrapMode": 1,
   "curveData": {
     "props": {
       "y": [
         {
           "frame": 0,
-          "value": -171.551
+          "value": -165
         },
         {
-          "frame": 1,
-          "value": -271.177
+          "frame": 1.5,
+          "value": -190
+        },
+        {
+          "frame": 3,
+          "value": -165
         }
       ]
     }
