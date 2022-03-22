@@ -5,13 +5,19 @@
   "start-scene": "43624b6f-d86b-4eb8-bd03-bc2f9eae6f9a",
   "group-list": [
     "default",
-    "number"
+    "number",
+    "New Group 4"
   ],
   "collision-matrix": [
     [
       true
     ],
     [
+      false,
+      false
+    ],
+    [
+      false,
       false,
       false
     ]
@@ -41,5 +47,6 @@
     "audience": {
       "enable": false
     }
-  }
+  },
+  "last-module-event-record-time": 1647840235770
 }

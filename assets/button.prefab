@@ -104,12 +104,12 @@
     "_prefab": {
       "__id__": 8
     },
-    "_opacity": 255,
+    "_opacity": 234.60000000000002,
     "_color": {
       "__type__": "cc.Color",
-      "r": 176,
-      "g": 86,
-      "b": 189,
+      "r": 137,
+      "g": 226,
+      "b": 169,
       "a": 255
     },
     "_contentSize": {
@@ -230,8 +230,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "khi vào game sẽ xuất hiện 1 số và sau\nvài giây sẽ xuất hiện số thứ 2 , \nso sánh số1 & số2 , nếu số 2 > số1 thì \nvuốt lên và ngược lại !!. \nchúc bạn chơi vui vui @@",
-    "_N$string": "khi vào game sẽ xuất hiện 1 số và sau\nvài giây sẽ xuất hiện số thứ 2 , \nso sánh số1 & số2 , nếu số 2 > số1 thì \nvuốt lên và ngược lại !!. \nchúc bạn chơi vui vui @@",
+    "_string": "Khi vào game sẽ xuất hiện 1 số và sau\nvài giây sẽ xuất hiện số thứ 2, so \nsánh số1 & số2, nếu số 2 > số1 thì: \nvuốt lên và ngược lại !!. \nchúc bạn chơi vui vui @@",
+    "_N$string": "Khi vào game sẽ xuất hiện 1 số và sau\nvài giây sẽ xuất hiện số thứ 2, so \nsánh số1 & số2, nếu số 2 > số1 thì: \nvuốt lên và ngược lại !!. \nchúc bạn chơi vui vui @@",
     "_fontSize": 30,
     "_lineHeight": 40,
     "_enableWrapText": false,
@@ -239,7 +239,7 @@
     "_isSystemFontUsed": true,
     "_spacingX": 0,
     "_batchAsBitmap": false,
-    "_styleFlags": 0,
+    "_styleFlags": 2,
     "_underlineHeight": 0,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
